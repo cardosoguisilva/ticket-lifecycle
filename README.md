@@ -25,12 +25,13 @@ In this part of the tutorial I will be showing you the Post-Installation steps o
 <h2>List of Prerequisites</h2>
 
 - osTicket Installed
+- Configuration of osTicket
 
-<h2>Configuration Steps</h2>
+<h2>Ticket Lifecycle</h2>
 <h4>Step 1</h4>
 <p>
   <ul>
-    <li>Log into your virtual machine and osTicket, use this URL http://localhost/osTicket/scp/login.php </li>
+    <li>Log into your virtual machine use this URL http://localhost/osTicket/ to make a ticket.  </li>
     </ul> 
 </p>
 
