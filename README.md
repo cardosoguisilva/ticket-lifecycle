@@ -3,9 +3,7 @@
 </p>
 
 <h1>osTicket: Ticket Lifecycle Examples</h1>
-In this part of the tutorial, I will be showing you the Post-Installation steps of osTicket. We will create Agents, Users, Teams, Departments, and SLAs in order to learn their capabilities. <br />
-
-
+In this last part of the tutorial, I will be showing you a few examples of how osTicket is used. We will simulate multiple ticket lifecycles. <br />
 
 <h2>Video Demonstration</h2>
 
@@ -28,14 +26,30 @@ In this part of the tutorial, I will be showing you the Post-Installation steps 
 - Configuration of osTicket
 
 <h2>Ticket Lifecycle</h2>
-<h4>Step 1</h4>
+<h4>Creating a ticket</h4>
 <p>
   <ul>
     <li>Log into your virtual machine and use this URL http://localhost/osTicket/ to make a ticket.  </li>
     </ul> 
 </p>
 
-![image](https://github.com/cardosoguisilva/post-install-config/assets/157248613/765f6c3b-557e-4e7e-b958-1641c62ac118)
+![image](https://github.com/cardosoguisilva/ticket-lifecycle/assets/157248613/bfd02a28-a71b-46ff-a517-ac70e9452512)
+
+- Click on "Open a New Ticket" and create the following tickets
+- Sev-A (1 hour, 24/7) [entire mobile/online banking system is down] -> SysAdmins
+- Sev-B (4 hours, 24/7) [accounting department needs Adobe upgrade, broken]
+- Sev-B/C (2 hours, business hours) [CFO’s laptop seems a bit slow]
+
+- Sev A example
+![image](https://github.com/cardosoguisilva/ticket-lifecycle/assets/157248613/1772c206-044a-4f06-8374-f6d6148e8c5a)
+
+
+<h4>Creating a ticket</h4>
+<p>
+  <ul>
+    <li>Log into your virtual machine and use this URL http://localhost/osTicket/ to make a ticket.  </li>
+    </ul> 
+</p>
 
 <h4>Step 2</h4>
 <p>
