@@ -38,18 +38,25 @@ In this last part of the tutorial, I will be showing you a few examples of how o
 - Click on "Open a New Ticket" and create the following tickets
 - Sev-A (1 hour, 24/7) [entire mobile/online banking system is down] -> SysAdmins
 - Sev-B (4 hours, 24/7) [accounting department needs Adobe upgrade, broken]
-- Sev-B/C (2 hours, business hours) [CFO’s laptop seems a bit slow]
+- Sev-B/C (2 hours, business hours) [Department issues with slow tablets.]
 
 - Sev A example
 ![image](https://github.com/cardosoguisilva/ticket-lifecycle/assets/157248613/1772c206-044a-4f06-8374-f6d6148e8c5a)
 
 
-<h4>Creating a ticket</h4>
+<h4>Solving a Ticekt</h4>
 <p>
   <ul>
-    <li>Log into your virtual machine and use this URL http://localhost/osTicket/ to make a ticket.  </li>
+    <li>Log into osTicket as one of the HelpDesk agents we configured in the last tutorial. http://localhost/osTicket/scp/login.php  </li>
     </ul> 
 </p>
+
+![image](https://github.com/cardosoguisilva/ticket-lifecycle/assets/157248613/8c122f54-66b9-49ac-8e59-43fd80f208c6)
+
+- and you should be able to see the tickets we created.
+
+- open the first ticket example and set up de SLA 
+
 
 <h4>Step 2</h4>
 <p>
