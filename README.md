@@ -53,9 +53,14 @@ In this last part of the tutorial, I will be showing you a few examples of how o
 
 ![image](https://github.com/cardosoguisilva/ticket-lifecycle/assets/157248613/8c122f54-66b9-49ac-8e59-43fd80f208c6)
 
-- and you should be able to see the tickets we created.
+- and you should be able to see the tickets we created. In case you can't see it, log back into your account's admin panel and make sure the agent has access to edit/view tickets.
 
-- open the first ticket example and set up de SLA 
+- Open the first ticket example and toy with it so you can get a feel for it, editing Status/Priority/Department/SLA, etc.
+
+![image](https://github.com/cardosoguisilva/ticket-lifecycle/assets/157248613/90e21a3e-3524-41c0-a79f-a859152fa762)
+
+this is how will look on a day-to-day basis of helpdesk professionals
+![image](https://github.com/cardosoguisilva/ticket-lifecycle/assets/157248613/87cde957-8a7a-453a-9290-66c39c7739ab)
 
 
 <h4>Step 2</h4>
