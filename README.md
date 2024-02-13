@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket: Ticket Lifecycle Examples</h1>
-In this part of the tutorial I will be showing you the Post-Installation steps of osTicket. We will create Agents, Users, Teams, Departments and SLAs, in order to learn the capabilities of it. <br />
+In this part of the tutorial, I will be showing you the Post-Installation steps of osTicket. We will create Agents, Users, Teams, Departments, and SLAs in order to learn their capabilities. <br />
 
 
 
@@ -31,7 +31,7 @@ In this part of the tutorial I will be showing you the Post-Installation steps o
 <h4>Step 1</h4>
 <p>
   <ul>
-    <li>Log into your virtual machine use this URL http://localhost/osTicket/ to make a ticket.  </li>
+    <li>Log into your virtual machine and use this URL http://localhost/osTicket/ to make a ticket.  </li>
     </ul> 
 </p>
 
@@ -43,7 +43,7 @@ In this part of the tutorial I will be showing you the Post-Installation steps o
     <li> Configuring agent <a href="https://docs.osticket.com/en/latest/Admin/Agents/Roles.html">ROLES</a> </li>
   <ul> 
     <li> Go to Admin Panel -> Agents -> Roles</li>
-    <li> Create "Supreme Admin" by selecting all boxes in Tickets, Tasks and Knowlegdebase.</li> </ul> 
+    <li> Create "Supreme Admin" by selecting all boxes in Tickets, Tasks and Knowledgebase.</li> </ul> 
   <br> </ol> 
     
 ![image](https://github.com/cardosoguisilva/post-install-config/assets/157248613/8ce94b43-2a8d-40aa-b9fb-c2400b60ee7d)
@@ -73,7 +73,7 @@ In this part of the tutorial I will be showing you the Post-Installation steps o
 <li>Allowing anyone to create a ticket.</li>
   <ul>
     <li>Admin Panel -> Settings -> User</li>
-    <li>By default "Registration Required: Require registration and login to create tickets" should be unchecked. This will allow people to make ticekts anonymously.</li>
+    <li>By default, "Registration Required: Require registration and login to create tickets" should be unchecked. This will allow people to make tickets anonymously.</li>
     </ol> <br>
  
 ![image](https://github.com/cardosoguisilva/post-install-config/assets/157248613/50b00f10-eff0-4da2-974c-eb0506641556)
