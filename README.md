@@ -35,10 +35,15 @@ In this last part of the tutorial, I will be showing you a few examples of how o
 
 ![image](https://github.com/cardosoguisilva/ticket-lifecycle/assets/157248613/bfd02a28-a71b-46ff-a517-ac70e9452512)
 
-- Click on "Open a New Ticket" and create the following tickets
+<ol start="2">
+<li>Configure  </li>
+  <ul>
+    <li>Click on "Open a New Ticket" and create the following tickets</li>
+
 - Sev-A (1 hour, 24/7) [entire mobile/online banking system is down] -> SysAdmins
 - Sev-B (4 hours, 24/7) [accounting department needs Adobe upgrade, broken]
 - Sev-B/C (2 hours, business hours) [Department issues with slow tablets.]
+    </ol> <br>
 
 - Sev A example
 ![image](https://github.com/cardosoguisilva/ticket-lifecycle/assets/157248613/1772c206-044a-4f06-8374-f6d6148e8c5a)
@@ -59,8 +64,35 @@ In this last part of the tutorial, I will be showing you a few examples of how o
 
 ![image](https://github.com/cardosoguisilva/ticket-lifecycle/assets/157248613/90e21a3e-3524-41c0-a79f-a859152fa762)
 
-this is how will look on a day-to-day basis of helpdesk professionals
+- Once you have made those changes on the main page of the tickets, it will show the difference that occurred 
 ![image](https://github.com/cardosoguisilva/ticket-lifecycle/assets/157248613/87cde957-8a7a-453a-9290-66c39c7739ab)
+
+- Pretend that the ticket was fixed, and change the ticket status to resolved. You will see that it does not show anymore on our main ticket tab. If you want to see the solved ticket again, just click on "Closed."
+
+- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 <h4>Step 2</h4>
