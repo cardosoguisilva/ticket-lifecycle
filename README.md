@@ -5,9 +5,6 @@
 <h1>osTicket: Ticket Lifecycle Examples</h1>
 In this last part of the tutorial, I will show you a few examples of how osTicket is used. We will simulate a ticket lifecycle. <br />
 
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: Examples of Ticket Lifecycle](https://www.youtube.com)
 
 <h2>Environments and Technologies Used</h2>
 
